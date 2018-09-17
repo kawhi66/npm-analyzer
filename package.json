@@ -1,0 +1,27 @@
+{
+    "name": "npm-analyzer",
+    "version": "0.0.1",
+    "description": "an analyzer for npm package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "analyze": "./bin/analyze"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kawhi66/npm-analyzer.git"
+    },
+    "keywords": [
+        "npm",
+        "analyzer",
+        "npm-analyzer"
+    ],
+    "author": "https://kawhi.site",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kawhi66/npm-analyzer/issues"
+    },
+    "homepage": "https://github.com/kawhi66/npm-analyzer#readme"
+}
