@@ -23,5 +23,8 @@
     "bugs": {
         "url": "https://github.com/kawhi66/npm-analyzer/issues"
     },
-    "homepage": "https://github.com/kawhi66/npm-analyzer#readme"
+    "homepage": "https://github.com/kawhi66/npm-analyzer#readme",
+    "dependencies": {
+        "yargs": "^12.0.2"
+    }
 }
